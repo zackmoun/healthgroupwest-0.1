@@ -1,0 +1,529 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+          "properties": {
+          "PARK_ID": 960,
+          "FACILITYID": 28014,
+          "LocationSTATE": "Alabama",
+          "LocationCITY": "Huntsville",
+          "ClientType": "Health System",
+          "Description": "882 Bed Hospital",
+           "Engagement": "Strategic Planning, Market Assessment, Service Line Development, Heart Center Development, Hospital-Employed Medical Group Creation"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-88.210530, 31.355410]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1219,
+          "FACILITYID": 28001,
+          "LocationSTATE": "Arizona",
+          "LocationCITY": "Mesa",
+          "ClientType": "Hospital",
+          "Description": "30 Bed Hospital",
+          "Engagement": "Strategic planning, Market Assessment, Practice Development"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-112.023820, 33.453620]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1157,
+          "FACILITYID": 28002,
+          "LocationSTATE": "Arizona",
+            "LocationCITY": "Mesa",
+            "ClientType": "Physician Practice",
+            "Description": "Cardiology",
+            "Engagement": "Strategic planning, Market Assessment, Practice Development"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-87.330430, 15.686010]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 9,
+          "FACILITYID": 28006,
+          "LocationSTATE": "Arizona",
+            "LocationCITY": "Phoenix",
+            "ClientType": "Hospital",
+            "Description": "103 Bed Hospital",
+            "Engagement": "Strategic planning, Market Assessment, Practice Development"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [121.509390, 25.050680]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1160,
+          "FACILITYID": 28007,
+          "LocationSTATE": "Arkansas",
+          "LocationCITY": "Fort Smith",
+          "ClientType": "Hospital",
+          "Description": "272 Bed Hospital",
+          "Engagement": "Strategic Planning, Market Assessment, Feasibility Study"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-90.581650, 36.424170]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1693,
+          "FACILITYID": 28016,
+          "LocationSTATE": "California",
+          "LocationCITY": "Santa Rosa",
+          "ClientType": "Hospital",
+          "Description": "84 Bed Hospital",
+          "Engagement": "Strategic Planning"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-121.869910, 37.591240]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1717,
+          "FACILITYID": 28018,
+          "LocationSTATE": "Florida",
+      "LocationCITY": "Tampa",
+      "ClientType": "Hospital",
+      "Description": "112 Bed Hospital",
+      "Engagement": "Market Assessment"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.122840, 42.704650]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 137,
+          "FACILITYID": 28019,
+          "LocationSTATE": "Georgia",
+      "LocationCITY": "Milledgeville",
+      "ClientType": "Hospital",
+      "Description": "118 Bed Hospital",
+      "Engagement": "Market Assessment, Strategic Planning, Service Line Planning"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-83.578160, 34.594700]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1133,
+          "FACILITYID": 28020,
+          "LocationSTATE": "Illinois",
+      "LocationCITY": "Bloomington",
+      "ClientType": "Health System",
+      "Description": "221 Bed Hospital",
+      "Engagement": "Market Assessment, Strategic Planning, Business Planning, Regional Development Planning Physician Practice Acquisition" 
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-89.216810, 37.722840]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 657,
+          "FACILITYID": 28000,
+          "LocationSTATE": "Illinois",
+      "LocationCITY": "Breese",
+      "ClientType": "Hospital",
+      "Description": "49 Bed Hospital",
+      "Engagement": "Market Assessment, Service Line Development"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-89.117400, 41.333580]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 653,
+          "FACILITYID": 28008,
+          "LocationSTATE": "Illinois",
+      "LocationCITY": "Joliet",
+      "ClientType": "Hospital",
+      "Description": "296 Bed Hospital",
+      "Engagement": "Market Assessment, Business Planning, Regional Development Planning"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-89.218000, 37.723020]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 812,
+          "FACILITYID": 35050,
+          "LocationSTATE": "Iowa",
+          "LocationCITY": "W. Burlington",
+          "ClientType": "Hospital",
+          "Description": "314 Bed Hospital",
+          "Engagement": "Regional Development Planning, CON, Service Line Development, Practice Acquisition PCI without On-Site Surgery Planning, Organization Structuring"    
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-91.547680, 41.657970]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2457,
+          "FACILITYID": 35637,
+          "LocationSTATE": "Kansas",
+          "LocationCITY": "Kansas City",
+          "ClientType": "Physician Practice",
+          "Description": "Cardiology",
+          "Engagement": "Practice Analysis"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.578560, 39.099790]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 430,
+          "FACILITYID": 28005,
+          "LocationSTATE": "Kansas",
+      "LocationCITY": "Kansas City",
+      "ClientType": "Hospital",
+      "Description": "158 Bed Hospital",
+      "Engagement": "Strategic Assessment, Regional Market Development Plan, Documentation and Operations Improvement, Joint Venture, Practice Acquisition, Service Line Development"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.863680, 38.569530]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 989,
+          "FACILITYID": 28017,
+          "LocationSTATE": "Kentucky",
+          "LocationCITY": "Bowling Green",
+          "ClientType": "Health System",
+          "Description": "309 Bed Hospital",
+          "Engagement": "Strategic Business Plan, Practice Acquisition, Provider Network Development, Market Assessment Performance Management Agreements, Service Line Development"    
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-86.697830, 37.626980]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1334,
+          "FACILITYID": 28011,
+          "LocationSTATE": "Kentucky",
+          "LocationCITY": "Owensboro",
+          "ClientType": "Health System",
+          "Description": "484 Bed Hospital",
+          "Engagement": "Strategic Business Plan, Practice Acquisition, Provider Network Development, Market Assessment Performance Management Agreements, Service Line Development"    
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-86.697770, 37.628360]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 923,
+          "FACILITYID": 28013,
+          "LocationSTATE": "Louisiana",
+          "LocationCITY": "Thibodaux",
+          "ClientType": "Hospital",
+          "Description": "175 Bed Hospital",
+          "Engagement": "Strategic Assessment"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-93.297810, 30.824930]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 762,
+          "FACILITYID": 28004,
+          "LocationSTATE": "Michigan",
+      "LocationCITY": "Cottage Grove",
+      "ClientType": "Health System",
+      "Description": "226 Bed Hospital",
+      "Engagement": "Market Assessment, Feasibility Study"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-77.014710, 38.893450]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 52,
+          "FACILITYID": 35120,
+          "LocationSTATE": "Mississippi",
+          "LocationCITY": "Hattiesburg",
+          "ClientType": "Physician Practice",
+          "Description": "300 Physician Multi-Specialty Group",
+          "Engagement": "Feasibility Study"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-90.313944, 39.043185]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2488,
+          "FACILITYID": 35815,
+          "LocationSTATE": "Mississippi",
+          "LocationCITY": "Jackson",
+          "ClientType": "Hospital",
+          "Description": "662 Bed Hospital",
+          "Engagement": "Feasibility Study, Business Plan, Marketing Plan, Staff Satisfaction Survey and Analysis"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-88.832040, 33.476230]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 330,
+          "FACILITYID": 28003,
+          "LocationSTATE": "Missouri",
+          "LocationCITY": "Hannibal",
+          "ClientType": "Health System",
+          "Description": "99 Bed Hospital",
+          "Engagement": "Clinic Assessment, Market Assessment"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-92.330380, 38.937690]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 693,
+          "FACILITYID": 28010,
+          "LocationSTATE": "Montana",
+      "LocationCITY": "Great Falls",
+      "ClientType": "Hospital",
+      "Description": "495 Bed Hospital",
+      "Engagement": "Market Assessment"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-81.707000, 26.061970]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2544,
+          "FACILITYID": 35667,
+          "LocationSTATE": "New Jersey",
+          "LocationCITY": "Passaic",
+          "ClientType": "Hospital",
+          "Description": "58 Bed Hospital",
+          "Engagement": "Strategic Assessment, Market Assessment, Feasibility Study, Business Plan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-74.784530, 40.406630]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2599,
+          "FACILITYID": 49251,
+          "LocationSTATE": "New Mexico",
+          "LocationCITY": "Bernalillo County",
+          "ClientType": "Government",
+          "Description": "",
+          "Engagement": "Market Assessment, Feasibility Study"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.632030968141081, 45.450696284941976]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2278,
+          "FACILITYID": 49211,
+          "LocationSTATE": "New York",
+      "LocationCITY": "Port Jervis",
+      "ClientType": "Hospital",
+      "Description": "168 Bed Hospital",
+      "Engagement": "Market Assessment, Feasibility Study, Business Plan, Marketing Plan, Service Line Development Practice Acquisition, Strategic Alliance Development, Joint Ventures, CIN, Performance Management Agreements "
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.759860, 44.586130]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2113,
+          "FACILITYID": 35299,
+          "LocationSTATE": "New York",
+      "LocationCITY": "Suffern",
+      "ClientType": "Hospital",
+      "Description": "286 Bed Hospital",
+      "Engagement": "Market Assessment, Feasibility Study, Business Plan, Marketing Plan, Service Line Development Practice Acquisition, Strategic Alliance Development, Joint Ventures, CIN, Performance Management Agreements"
+
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.120810, 42.964350]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 21100,
+          "FACILITYID": 352990,
+          "LocationSTATE": "New York",
+          "LocationCITY": "Warwick",
+          "ClientType": "Hospital",
+          "Description": "68 Bed Hospital",
+          "Engagement": "Market Assessment, Feasibility Study, Business Plan, Marketing Plan, Service Line Development Practice Acquisition, Strategic Alliance Development, Joint Ventures, CIN, Performance Management Agreements"
+    
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.769970, 43.105920]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 21134,
+          "FACILITYID": 352949,
+          "LocationSTATE": "North Carolina",
+      "LocationCITY": "Eden",
+      "ClientType": "Hospital",
+      "Description": "229 Bed Hospital",
+      "Engagement": "Market Assessment"
+            
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-78.770180, 34.372180]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 21113,
+          "FACILITYID": 352499,
+          "LocationSTATE": "North Carolina",
+          "LocationCITY": "Valdese",
+          "ClientType": "Hospital",
+          "Description": "154 Bed Hospital",
+          "Engagement": "Market Assessment, Business Plan"
+            
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-81.897740, 35.208910]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2122113,
+          "FACILITYID": 3252499,
+          "LocationSTATE": "Ohio",
+          "LocationCITY": "Lima",
+          "ClientType": "Physician Practice",
+          "Description": "Cardiology",
+          "Engagement": "Market Assessment, Business Plan, Strategic Planning, Joint Ventures, Practice Financial and Productivity Analyses, Performance Management Agreement, Staffing, Physician Recruitment, Service Expansions Practice Expansion, Equipment Purchase Guidance, Quality-Based Compensation Analysis"
+    
+            
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-80.093690, 40.547970]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 26113,
+          "FACILITYID": 32799,
+          "LocationSTATE": "Ohio",
+      "LocationCITY": "Columbus",
+      "ClientType": "Health System",
+      "Description": "692 Bed Hospital",
+      "Engagement": "Market Assessment, Business Plan, Manpower Assessment, Service Line Development Performance Management Agreement, New Facility Planning"        
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-86.697650, 37.625620]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 256113,
+          "FACILITYID": 132799,
+          "LocationSTATE": "Oklahoma",
+          "LocationCITY": "Edmond",
+          "ClientType": "Hospital",
+          "Description": "58 Bed Hospital",
+          "Engagement": "Market Assessment, Ambulatory Surgery Center Feasibility Study"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-98.253020, 36.665910]
+        }
+      }
+    ]
+  }
