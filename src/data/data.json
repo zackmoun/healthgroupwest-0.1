@@ -1,0 +1,797 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      "PLOCATION_ID": 1,
+      "LocationSTATE": "Alabama",
+      "LocationCITY": "Huntsville",
+      "Client Type": "Health System",
+      "Description": "882 Bed Hospital",
+      "Engagement": "Strategic Planning, Market Assessment, Service Line Development, Heart Center Development, Hospital-Employed Medical Group Creation"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-86.585297,34.729542]
+        }
+
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Arizona",
+      "LocationCITY": "Mesa",
+      "Client Type": "Hospital",
+      "Description": "30 Bed Hospital",
+      "Engagement": "Strategic planning, Market Assessment, Practice Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-111.831497,33.41518]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Arizona",
+      "LocationCITY": "Mesa",
+      "Client Type": "Physician Practice",
+      "Description": "Cardiology",
+      "Engagement": "Strategic planning, Market Assessment, Practice Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-111.831497,33.41518]
+        }
+        
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Arizona",
+      "LocationCITY": "Phoenix",
+      "Client Type": "Hospital",
+      "Description": "103 Bed Hospital",
+      "Engagement": "Strategic planning, Market Assessment, Practice Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-112.074036,33.448376]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Arkansas",
+      "LocationCITY": "Fort Smith",
+      "Client Type": "Hospital",
+      "Description": "272 Bed Hospital",
+      "Engagement": "Strategic Planning, Market Assessment, Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-94.42436,35.38664]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "California",
+      "LocationCITY": "Santa Rosa",
+      "Client Type": "Hospital",
+      "Description": "84 Bed Hospital",
+      "Engagement": "Strategic Planning"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-122.715637,38.439701]
+        }
+
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Florida",
+      "LocationCITY": "Tampa",
+      "Client Type": "Hospital",
+      "Description": "112 Bed Hospital",
+      "Engagement": "Market Assessment"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-82.457176,27.950575]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Georgia",
+      "LocationCITY": "Milledgeville",
+      "Client Type": "Hospital",
+      "Description": "118 Bed Hospital",
+      "Engagement": "Market Assessment, Strategic Planning, Service Line Planning"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-83.232063,33.080238]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Illinois",
+      "LocationCITY": "Bloomington",
+      "Client Type": "Health System",
+      "Description": "221 Bed Hospital",
+      "Engagement": "Market Assessment, Strategic Planning, Business Planning, Regional Development Planning Physician Practice Acquisition"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-88.99369,40.484203]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Illinois",
+      "LocationCITY": "Breese",
+      "Client Type": "Hospital",
+      "Description": "49 Bed Hospital",
+      "Engagement": "Market Assessment, Service Line Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-89.525818,38.609772]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Illinois",
+      "LocationCITY": "Joliet",
+      "Client Type": "Hospital",
+      "Description": "296 Bed Hospital",
+      "Engagement": "Market Assessment, Business Planning, Regional Development Planning"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-88.081726,41.525032]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Iowa",
+      "LocationCITY": "W. Burlington",
+      "Client Type": "Hospital",
+      "Description": "314 Bed Hospital",
+      "Engagement": "Regional Development Planning, CON, Service Line Development, Practice Acquisition PCI without On-Site Surgery Planning, Organization Structuring"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-91.16163,40.82603]
+        }
+       
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Kansas",
+      "LocationCITY": "Kansas City",
+      "Client Type": "Physician Practice",
+      "Description": "Cardiology",
+      "Engagement": "Practice Analysis"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-94.626801,39.112701]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Kansas",
+      "LocationCITY": "Kansas City",
+      "Client Type": "Hospital",
+      "Description": "158 Bed Hospital",
+      "Engagement": "Strategic Assessment, Regional Market Development Plan, Documentation and Operations Improvement, Joint Venture, Practice Acquisition, Service Line Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-94.626801,39.112701]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Kentucky",
+      "LocationCITY": "Bowling Green",
+      "Client Type": "Health System",
+      "Description": "309 Bed Hospital",
+      "Engagement": "Strategic Business Plan, Practice Acquisition, Provider Network Development, Market Assessment Performance Management Agreements, Service Line Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-86.443489,37.002411]
+        }
+        
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Kentucky",
+      "LocationCITY": "Owensboro",
+      "Client Type": "Health System",
+      "Description": "484 Bed Hospital",
+      "Engagement": "Strategic Business Plan, Practice Acquisition, Provider Network Development, Market Assessment Performance Management Agreements, Service Line Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-87.111031,37.772701]
+        }  
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Louisiana",
+      "LocationCITY": "Thibodaux",
+      "Client Type": "Hospital",
+      "Description": "175 Bed Hospital",
+      "Engagement": "Strategic Assessment"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-90.822533,29.79574]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Michigan",
+      "LocationCITY": "Cottage Grove",
+      "Client Type": "Health System",
+      "Description": "226 Bed Hospital",
+      "Engagement": "Market Assessment, Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-88.14194,30.79103]
+        }      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Mississippi",
+      "LocationCITY": "Hattiesburg",
+      "Client Type": "Physician Practice",
+      "Description": "300 Physician Multi-Specialty Group",
+      "Engagement": "Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-89.289658,31.32646]
+        }     
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Mississippi",
+      "LocationCITY": "Jackson",
+      "Client Type": "Hospital",
+      "Description": "662 Bed Hospital",
+      "Engagement": "Feasibility Study, Business Plan, Marketing Plan, Staff Satisfaction Survey and Analysis"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-90.184807,32.298756]
+        }    
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Missouri",
+      "LocationCITY": "Hannibal",
+      "Client Type": "Health System",
+      "Description": "99 Bed Hospital",
+      "Engagement": "Clinic Assessment, Market Assessment"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-91.385391,39.705002]
+        }  
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Montana",
+      "LocationCITY": "Great Falls",
+      "Client Type": "Hospital",
+      "Description": "495 Bed Hospital",
+      "Engagement": "Market Assessment"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-111.306023,47.506451]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "New Jersey",
+      "LocationCITY": "Passaic",
+      "Client Type": "Hospital",
+      "Description": "58 Bed Hospital",
+      "Engagement": "Strategic Assessment, Market Assessment, Feasibility Study, Business Plan"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-74.125771,40.859501]
+        }
+     
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "New Mexico",
+      "LocationCITY": "Bernalillo County",
+      "Client Type": "Government",
+      "Description": "",
+      "Engagement": "Market Assessment, Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-106.24551,35.11307]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "New York",
+      "LocationCITY": "Port Jervis",
+      "Client Type": "Hospital",
+      "Description": "168 Bed Hospital",
+      "Engagement": "Market Assessment, Feasibility Study, Business Plan, Marketing Plan, Service Line Development Practice Acquisition, Strategic Alliance Development, Joint Ventures, CIN, Performance Management Agreements "
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-74.68505,41.37578]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "New York",
+      "LocationCITY": "Suffern",
+      "Client Type": "Hospital",
+      "Description": "286 Bed Hospital",
+      "Engagement": "Market Assessment, Feasibility Study, Business Plan, Marketing Plan, Service Line Development Practice Acquisition, Strategic Alliance Development, Joint Ventures, CIN, Performance Management Agreements"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-74.1498,41.1124]
+        } 
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "New York",
+      "LocationCITY": "Warwick",
+      "Client Type": "Hospital",
+      "Description": "68 Bed Hospital",
+      "Engagement": "Market Assessment, Feasibility Study, Business Plan, Marketing Plan, Service Line Development Practice Acquisition, Strategic Alliance Development, Joint Ventures, CIN, Performance Management Agreements"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [74.3822,41.2638]
+        }    
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "North Carolina",
+      "LocationCITY": "Eden",
+      "Client Type": "Hospital",
+      "Description": "229 Bed Hospital",
+      "Engagement": "Market Assessment"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-79.7667,36.4885]
+        } 
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "North Carolina",
+      "LocationCITY": "Valdese",
+      "Client Type": "Hospital",
+      "Description": "154 Bed Hospital",
+      "Engagement": "Market Assessment, Business Plan"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-81.5634,35.7432]
+        }  
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Ohio",
+      "LocationCITY": "Lima",
+      "Client Type": "Physician Practice",
+      "Description": "Cardiology",
+      "Engagement": "Market Assessment, Business Plan, Strategic Planning, Joint Ventures, Practice Financial and Productivity Analyses, Performance Management Agreement, Staffing, Physician Recruitment, Service Expansions Practice Expansion, Equipment Purchase Guidance, Quality-Based Compensation Analysis"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-84.1052,40.7426]
+        }    
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Ohio",
+      "LocationCITY": "Columbus",
+      "Client Type": "Health System",
+      "Description": "692 Bed Hospital",
+      "Engagement": "Market Assessment, Business Plan, Manpower Assessment, Service Line Development Performance Management Agreement, New Facility Planning"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-83.0007,34.729542]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Oklahoma",
+      "LocationCITY": "Edmond",
+      "Client Type": "Hospital",
+      "Description": "58 Bed Hospital",
+      "Engagement": "Market Assessment, Ambulatory Surgery Center Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-97.4649,35.6571]
+        }   
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Oregon",
+      "LocationCITY": "Portland",
+      "Client Type": "Hospital",
+      "Description": "211 Bed Hospital",
+      "Engagement": "PCI Program Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-122.6742,45.5202]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Pennsylvania",
+      "LocationCITY": "Scranton",
+      "Client Type": "Hospital",
+      "Description": "412 Bed Hospital",
+      "Engagement": "Market Assessment, Regional Development Plan"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-75.6621,41.4087]
+        }  
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Pennsylvania",
+      "LocationCITY": "Wilkes-Barre",
+      "Client Type": "Hospital",
+      "Description": "192 Bed Hospital",
+      "Engagement": "Market Assessment, Regional Development Plan, Cath Lab Cost Analysis"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-75.8813,41.2459]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "South Dakota",
+      "LocationCITY": "Sioux Falls",
+      "Client Type": "Hospital",
+      "Description": "419 Bed Hospital",
+      "Engagement": "Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7003,43.55]
+        }     
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Tennessee",
+      "LocationCITY": "Knoxville",
+      "Client Type": "Hospital",
+      "Description": "635 Bed Hospital",
+      "Engagement": "Strategic Assessment, CON Assistance, Regional Development Plan, Joint Ventures Business Plan, Facility Impact Analysis, Service Line Planning"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-83.921,35.9604]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Port Aransas",
+      "Client Type": "Government",
+      "Description": "",
+      "Engagement": "Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-97.0618,27.8332]
+        } 
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Dallas",
+      "Client Type": "Physician/Hospital Joint Venture",
+      "Description": "",
+      "Engagement": "Market Assessment, Ambulatory Surgery Center Feasibility Study"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7969,32.7763]
+        }   
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Dallas",
+      "Client Type": "Hospital",
+      "Description": "222 Bed Hospital",
+      "Engagement": "Market Assessment, Business Plan"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7969,32.7763]
+        }    
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Dallas",
+      "Client Type": "Health System",
+      "Description": "269 Bed Hospital",
+      "Engagement": "Feasibility Study, Business Plan, Market Assessment, Service Line Planning Service Line Expansion, Heart Hospital Feasibility"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7969,32.7763]
+        }  
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Dallas",
+      "Client Type": "Health System",
+      "Description": "652 Bed Hospital",
+      "Engagement": "Feasibility Study, Regional Development Plan, Joint Ventures, Performance Management Agreement"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7969,32.7763]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Dallas",
+      "Client Type": "Group Purchasing Organization",
+      "Description": "",
+      "Engagement": "Cardiovascular Information Systems Study and Recommendation"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7969,32.7763]
+        }
+
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Dallas",
+      "Client Type": "Health System",
+      "Description": "366 Bed Hospital",
+      "Engagement": "Market Assessment, Business Plan"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7969,32.7763]
+        }    
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Texas",
+      "LocationCITY": "Dallas",
+      "Client Type": "Health System",
+      "Description": "68 Bed Hospital",
+      "Engagement": "Market Assessment"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-96.7969,32.7763]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Virginia",
+      "LocationCITY": "Leesburg",
+      "Client Type": "Hospital",
+      "Description": "279 Bed Hospital",
+      "Engagement": "Feasibility Study, COPN Assessment and Recommendations, Strategic Business Plan MOB Planning Assistance, Joint Ventures, Service Line Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-77.5645,39.1154]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Virginia",
+      "LocationCITY": "Norfolk",
+      "Client Type": "Health System",
+      "Description": "684 Beds",
+      "Engagement": "Regional Development Plan, Feasibility Study, Service Line Development, Market Assessment, Joint Ventures, Performance Management Agreements, Market Development Plan, Physician Relationship Management, Physician Practice Acquisition, Medical Practice Development, Strategic Planning, Ambulatory Surgery Center Feasibility, ACO Development, CIN Development, Value-based Purchasing Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-76.2916,36.8465]
+        }   
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Virginia",
+      "LocationCITY": "Richmond",
+      "Client Type": "Health System",
+      "Description": "850 Beds",
+      "Engagement": "Regional Development Plan, Feasibility Study, Service Line Development, Market Assessment, Joint Ventures, Performance Management Agreements, Market Development Plan, Physician Relationship Management, Physician Practice Acquisition, Medical Practice Development, Strategic Planning, Ambulatory Surgery Center Feasibility, ACO Development, CIN Development, Value-based Purchasing Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-77.4343,37.5385]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Virginia",
+      "LocationCITY": "Richmond",
+      "Client Type": "Physician Practice",
+      "Description": "Cardiology",
+      "Engagement": "Market Assessment, Business Plan, Strategic Planning, Joint Ventures, Practice Financial and Productivity Analyses, Performance Management Agreement, Staffing, Physician Recruitment, Service Expansions Practice Expansion, Equipment Purchase Guidance, Quality-Based Compensation Analysis"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-77.4343,37.5385]
+        }
+      
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "West Virginia",
+      "LocationCITY": "Huntington",
+      "Client Type": "Hospital",
+      "Description": "380 Bed Hospital",
+      "Engagement": "Business Plan, Market Assessment, Facility Impact Analysis, Joint Ventures Strategic Planning, Service Line Development"
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-82.4452,38.4192]
+        }
+    },
+    {
+        "type": "Feature",
+          "properties": {
+          "PLOCATION_ID": 1,
+          "LocationSTATE": "Wyoming",
+      "LocationCITY": "Jackson",
+      "Client Type": "Physician Practice",
+      "Description": "Internal Medicine",
+      "Engagement": "Market Assessment, Joint Ventures, Practice Financial and Productivity Assessment "
+       },
+        "geometry": {
+          "type": "Health System",
+          "coordinates": [-110.7618,43.48]
+        }
+      
+    }
+ ]
+}
+   
