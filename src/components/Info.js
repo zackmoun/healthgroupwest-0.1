@@ -10,9 +10,9 @@ const Info = () => {
         <p className="d-none d-lg-block d-xl-block" style={{color: '#000000'}}>(888) 459-2692</p></a>
       </div>
       <div className="col-4 box2 pt-4">
-        <NavLink to=""><i className="fa fa-home fa-3x" style={{color: '#FA8A3B'}}></i>
-        <h3 className="d-none d-lg-block d-xl-block" style={{color: '#000000'}}>Address</h3>
-        <p className="d-none d-lg-block d-xl-block" style={{color: '#000000'}}>	1975 Village Center Cir, Las Vegas 89134</p></NavLink>
+            <a href="https://www.facebook.com/pages/Healthgroup-West-LLC/104528122947989" target="_blank" className="p-3"><i className="fa fa-facebook fa-3x" style={{color: '#FA8A3B'}}></i></a>       
+            <h3 className="d-none d-lg-block d-xl-block" style={{color: '#000000'}}>Follow Us</h3>
+            <p className="d-none d-lg-block d-xl-block" style={{color: '#000000'}}>@HealthGroupWest</p>     
       </div>
       <div className="col-4 box3 pt-4">
         <a href="mailto:test@test.com"><i className="fa fa-envelope fa-3x" style={{color: '#FA8A3B'}}></i>
