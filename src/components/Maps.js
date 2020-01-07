@@ -6,17 +6,19 @@ import {
   Marker,
   InfoWindow
 } from "react-google-maps";
-import * as parkData from "../data/locations-client.json";
+import * as locationkData from "../data/locations-client.json";
 import mapStyles from "../mapStyles";
 require('dotenv').config();
 
 function Map() {
-  const [selectedPark, setSelectedPark] = useState(null);
+  const [selectedLocation, setSelectedLocation] = useState(null);
+
+  const [zoomLocation, setzoomLocation] = useState(4.5);
   
   useEffect(() => {
     const listener = e => {
       if (e.key === "Escape") {
-        setSelectedPark(null);
+        setSelectedLocation(null);
       }
     };
     window.addEventListener("keydown", listener);
@@ -29,7 +31,7 @@ function Map() {
   return (
 
     <GoogleMap
-      defaultZoom={4.5}
+      defaultZoom={zoomLocation}
       defaultCenter={{ lat: 41.8875355, lng: -102.378298 }}
       //defaultOptions={{ styles: mapStyles }}
       defaultOptions={{
@@ -47,7 +49,7 @@ function Map() {
       }} 
       //disableDefaultUI     
     >
-      {parkData.features.map(location => (
+      {locationkData.features.map(location => (
         <Marker
           key={location.properties.PLOCATION_ID}
           position={{
@@ -55,13 +57,15 @@ function Map() {
             lng: location.geometry.coordinates[0]
           }}
           onClick={() => {
-            setSelectedPark(location);
+            setSelectedLocation(location);
+            setzoomLocation(10);
+            console.log(zoomLocation);
           }}
           icon={{
             url: `/pin-2.svg`,
             //url: `../assets/icon.svg`,`
             //fill: '#FA8A3B',
-            scaledSize: new window.google.maps.Size(25, 25),
+            scaledSize: new window.google.maps.Size(15, 15),
             draggable:true,
             position: 'center',
             cursor: 'move',
@@ -70,21 +74,21 @@ function Map() {
           
         />
       ))}
-      {selectedPark && (
+      {selectedLocation && (
         <InfoWindow
           onCloseClick={() => {
-            setSelectedPark(null);
+            setSelectedLocation(null);
           }}
           position={{
-            lat: selectedPark.geometry.coordinates[1],
-            lng: selectedPark.geometry.coordinates[0]
+            lat: selectedLocation.geometry.coordinates[1],
+            lng: selectedLocation.geometry.coordinates[0]
           }}
         >
           <div style={{width: '200px', height: 'auto'}}>
-            <h4>{selectedPark.properties.Description}</h4>
+            <h4>{selectedLocation.properties.Description}</h4>
             <hr className={orangeLine}/>
-            <p style={{padding: '2px'}}><span style={{fontWeight: 'bold'}}>Client Type:</span> {selectedPark.properties.ClientType}</p>
-            <p style={{padding: '2px'}}><span style={{fontWeight: 'bold'}}>Engagement Type:</span> {selectedPark.properties.Engagement}</p>
+            <p style={{padding: '2px'}}><span style={{fontWeight: 'bold'}}>Client Type:</span> {selectedLocation.properties.ClientType}</p>
+            <p style={{padding: '2px'}}><span style={{fontWeight: 'bold'}}>Engagement Type:</span> {selectedLocation.properties.Engagement}</p>
           </div>
         </InfoWindow>
       )}
