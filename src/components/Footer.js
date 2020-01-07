@@ -8,7 +8,7 @@ const Footer = () => {
             
             <div className="col-12 my-3">
         
-            <NavLink to="https://www.facebook.com/pages/Healthgroup-West-LLC/104528122947989" target="_blank" className="p-3"><i className="fa fa-facebook fa-2x" style={{color: '#FA8A3B'}}></i></NavLink>
+            <a href="https://www.facebook.com/pages/Healthgroup-West-LLC/104528122947989" target="_blank" className="p-3"><i className="fa fa-facebook fa-2x" style={{color: '#FA8A3B'}}></i></a>
            
             </div>
             <div className="col-12 mt-4 p-3">
